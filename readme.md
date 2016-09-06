@@ -14,5 +14,5 @@
 
 - [2016届](https://github.com/DAASTA/Contacts/blob/master/2016.csv)
 
-> ![logo](https://github.com/DAASTA/Contacts/tree/master/logo/ASTA2016.jpg)
-> <br>ASTA2016
+> ![logo](./logo/ASTA2016_mini.jpg)
+> ASTA2016

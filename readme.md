@@ -12,7 +12,7 @@
 
 ## 通讯录
 
-- [2016届](https://github.com/DAASTA/Contacts/blob/master/2016.csv)
+- [2016](https://github.com/DAASTA/Contacts/blob/master/2016.csv)
 
 > ![logo](./logo/ASTA2016_mini.jpg)
 > ASTA2016
